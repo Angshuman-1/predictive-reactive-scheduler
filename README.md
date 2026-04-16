@@ -20,7 +20,7 @@ The framework compares two reactive rescheduling policies after a disruption:
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/predictive-reactive-scheduler.git](https://github.com/YOUR_USERNAME/predictive-reactive-scheduler.git)
+git clone [https://github.com/Angshuman-1/predictive-reactive-scheduler.git](https://github.com/Angshuman-1/predictive-reactive-scheduler.git)
 cd predictive-reactive-scheduler
 ```
 
