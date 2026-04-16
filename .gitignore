@@ -1,0 +1,10 @@
+# Ignore generated visualization files
+*.html
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
